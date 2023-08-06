@@ -1,1 +1,2 @@
-it only prints the name of the core operating system
+$ uname
+Linux
